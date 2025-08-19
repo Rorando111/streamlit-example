@@ -33,36 +33,6 @@ streamlit-example/
 └── README.md
 ```
 
-
-## 🧑‍💻 Getting Started
-
-### Prerequisites
-
-- Python 3.7+
-- pip (Python package manager)
-
-### Quick Start
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Rorando111/streamlit-example.git
-   cd streamlit-example
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the Streamlit app:
-   ```bash
-   streamlit run src/app.py
-   ```
-
-4. Open the provided URL in your browser to use the dashboard.
-
----
-
 ## 👤 Author
 
 [@Rorando111](https://github.com/Rorando111)
